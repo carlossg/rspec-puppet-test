@@ -1,6 +1,6 @@
 source :rubygems
 
-# gem 'librarian-puppet', '>=0.9.3'
+gem 'librarian-puppet', '>=0.9.3'
 
 group :rake do
   gem 'puppet',       '~>3.0.1'
